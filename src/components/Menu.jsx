@@ -48,10 +48,10 @@ const Menu = () => {
 					<a href="/" className="title">HOME</a>
 				</li>
 				<li>
-					<a href="/profile">PROFILE</a>
+					<a href="https://btsworld-profile.netlify.app/">PROFILE</a>
 				</li>
 				<li>
-					<a href="/discography">DISCOGRAPHY</a>
+					<a href="https://btsworld-discography.netlify.app/">DISCOGRAPHY</a>
 				</li>
 			</ul>
 		</div>
